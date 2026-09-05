@@ -25,7 +25,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true  # Fetches themes if added as submodules
+          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -35,7 +35,7 @@ jobs:
           extended: true
 
       - name: Build Hugo Site
-        run: hugo --minify --baseURL "https://olchikiai.github.io/olchikiai/"
+        run: hugo --minify --baseURL "https://olchikiai.github.io"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

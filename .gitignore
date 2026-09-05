@@ -1,0 +1,10 @@
+# Generated site output (GitLab Pages / CI/CD will build this dynamically)
+/public/
+
+# Hugo runtime & resource caches
+/resources/_gen/
+.hugo_build.lock
+
+# System & editor files
+.DS_Store
+Thumbs.db

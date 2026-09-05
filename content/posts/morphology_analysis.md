@@ -39,7 +39,7 @@ flowchart TD
 While the underlying grammar requires morphological decomposition, the physical structure of the Ol Chiki script introduces unique challenges that make a dedicated analyzer even more critical:
 
 ### A. The Non-Linear Morphological Infix Challenge
-As an ML architect, your tokenizers typically scan text sequentially from left to right. However, Santali uses internal infixes to change word meanings (e.g., inserting ᱯ (-p-) inside ᱫᱟᱞ (dal) to make ᱫᱟᱯᱟᱞ (dapal - to fight each other)).
+Tokenizers typically scan text sequentially from left to right. However, Santali uses internal infixes to change word meanings (e.g., inserting ᱯ (-p-) inside ᱫᱟᱞ (dal) to make ᱫᱟᱯᱟᱞ (dapal - to fight each other)).
 
 * A standard sequential BPE tokenizer sees ᱫᱟᱞ and ᱫᱟᱯᱟᱞ as entirely unrelated character strings.
 * An Ol Chiki Morphological Analyzer uses structural rules to identify the infix character in the middle of a syllable, extract it, and map it to a "reciprocal action" feature tag.

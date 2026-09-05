@@ -30,4 +30,4 @@ Every model trained and every dataset collected builds a growing corpus for Sant
 
 ### Open Source
 
-All work produced by this initiative is open-source and freely available at [GitHub](https://github.com/sandipmurmu).
+All work produced by this initiative is open-source and freely available on GitHub.

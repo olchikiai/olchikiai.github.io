@@ -11,9 +11,8 @@ If multiple relationships exist, the markers stack sequentially onto the base ro
 &lt;h3 id="the-stacking-chain"&gt;The Stacking Chain&lt;/h3&gt;
 &lt;p&gt;Watch how individual grammatical instructions append to the end of the base noun:&lt;/p&gt;</description></item><item><title>The Mechanics of Agglutination in Santali</title><link>/posts/agglutination/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate><guid>/posts/agglutination/</guid><description>How agglutination works in Santali, contrasted with inflectional Indo-Aryan languages, and why it presents unique challenges for ML engineers.</description></item><item><title>Ol Chiki Script and the Grammar of Santali</title><link>/posts/olchiki/</link><pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate><guid>/posts/olchiki/</guid><description>An overview of the Ol Chiki script, its origins, and the grammatical structure of Santali including agglutination, pronoun systems, and noun classification.</description></item><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="contributors"&gt;Contributors&lt;/h2&gt;
 &lt;p style="font-size: 0.80rem; line-height: 1.7;"&gt;
-&lt;strong&gt;Sandip Murmu&lt;/strong&gt; is dedicating his time outside of work to building open-source AI models for the Santali language and the Ol Chiki script.
+I dedicated my time outside of work to building open-source AI models for the Santali language and the Ol Chiki script.
 &lt;br&gt;&lt;br&gt;
-&lt;a href="mailto:sandip.murmu@gmail.com" style="text-decoration: none;"&gt;✉️ sandip.murmu@gmail.com&lt;/a&gt;
-send me email: sundipoffice AT gmail.com for any queries and correction.
+Send me email: sundipoffice AT gmail.com for any queries and correction.
 &lt;/p&gt;</description></item><item><title>Datasets and Models</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>&lt;h3 id="rahala"&gt;Rahala&lt;/h3&gt;
 &lt;p&gt;Rahala is a pioneering AI vision model designed to detect Ol Chiki script in images.&lt;/p&gt;</description></item></channel></rss>

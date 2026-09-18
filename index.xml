@@ -14,5 +14,6 @@ If multiple relationships exist, the markers stack sequentially onto the base ro
 I dedicate my time outside of work to building open-source AI models for the Santali language and the Ol Chiki script.
 &lt;br&gt;&lt;br&gt;
 Send me email: sundipoffice AT gmail.com for any queries and correction.
-&lt;/p&gt;</description></item><item><title>Datasets and Models</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>&lt;h3 id="rahala"&gt;Rahala&lt;/h3&gt;
-&lt;p&gt;Rahala is a pioneering AI vision model designed to detect Ol Chiki script in images.&lt;/p&gt;</description></item></channel></rss>
+&lt;/p&gt;</description></item><item><title>Datasets and Models</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>&lt;h3 id="ahla"&gt;Ahla&lt;/h3&gt;
+&lt;p&gt;Ahla is a Optical Recognizer designed to detects Ol Chiki script in images.
+[Ahla] &lt;a href="https://github.com/olchikiai/ahla"&gt;https://github.com/olchikiai/ahla&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
